@@ -1,0 +1,3 @@
+-keep class net.sqlcipher.** { *; }
+-keep class android.content.SharedPreferences { *; }
+-keep class net.SharedPreferences.** 
